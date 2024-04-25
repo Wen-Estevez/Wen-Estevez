@@ -1,4 +1,5 @@
-![image](https://github.com/Wen-Estevez/Wen-Estevez/assets/29679032/f1338fb7-1e66-4a20-b641-42ef8e8dcbec)
+![image](https://github.com/Wen-Estevez/Wen-Estevez/assets/29679032/86b0038a-737b-4805-9d8f-bd11c88efee2)
+
 
 
 

@@ -22,7 +22,7 @@ Soy una apasionada desarrolladora frontend con una inclinación especial hacia e
 
 <h2>¿Preguntas o Comentarios?</h2>
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, no dudes en ponerte en contacto conmigo. Estoy siempre dispuesto/a a conectar con otros apasionados por la web.
+Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, no dudes en ponerte en contacto conmigo. Estoy siempre dispuesta a conectar con otros apasionados por la web.
 
 ¡Gracias por visitarme! 😊
 

@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Wen-Estevez/Wen-Estevez/assets/29679032/1d422a98-874a-4a53-8933-ef4022438202)
 
-<h3> Soy una apasionada desarrolladora frontend con una inclinación especial hacia el diseño y la usabilidad. Me encanta transformar ideas en interfaces unicas y funcionales que cautiven a los usuarios.</h3>
+Soy una apasionada desarrolladora frontend con una inclinación especial hacia el diseño y la usabilidad. Me encanta transformar ideas en interfaces unicas y funcionales que cautiven a los usuarios.
 
 <h2>Características</h2> 
 🌟 Diseño Moderno: Me gusta crear diseños frescos y modernos que combinen estética y funcionalidad.<br/>
